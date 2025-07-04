@@ -36,19 +36,22 @@ A sleek and responsive personal task management app built with React and Tailwin
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/personal-task-tracker.git
+   https://github.com/Krishiv-12/Task-Tracker.git
 
    Install dependencies:
 
 2. Install dependencies:
 npm install
-Start the development server:
 
 3. Start the development server:
 npm run dev
 
 4. Open the app in your browser:
 http://localhost:5173
+
+## 🔗 Live Demo
+[👉 View Live](https://task-tool.netlify.app/)
+
 
 
 ## 🖼 Screenshots
